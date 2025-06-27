@@ -17,6 +17,6 @@
 
 ### 🌐 Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/rohit-sharma-a8028b208" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="mailto:roturohit1@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 </p>
