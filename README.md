@@ -80,5 +80,5 @@ Key features:
 ---
 
 ## Contact
-- Email: your-email@example.com  
-- LinkedIn: https://linkedin.com/in/your-profile  
+- Email: roturohit1@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/rohit-sharma120/
